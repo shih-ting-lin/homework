@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89dd9946-d401-4198-8a86-d13d7b5dfa70" name="Changes" comment="" />
+    <list default="true" id="89dd9946-d401-4198-8a86-d13d7b5dfa70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailBox/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailBox/Box3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailBox/Box5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mailBox/BoxTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/train/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/train/Tester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/train/Tester3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/train/Ticket1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/mailBox/Box.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/train/TesterKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +29,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2CRiurkWRxnse0sxs4ikrj8E1td" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,11 +53,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.BoxKt">
+    <configuration name="BoxTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mailBox.BoxTester" />
+      <module name="homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mailBox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.train.Tester3" />
+      <module name="homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.train.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.train.Tester2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.train.Tester2" />
+      <module name="homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.train.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mailBox.BoxKt" />
+      <module name="homework.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesterKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.train.TesterKotlinKt" />
+      <module name="homework.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.BoxKt" />
+        <item itemvalue="Application.BoxTester" />
+        <item itemvalue="Application.Tester3" />
+        <item itemvalue="Kotlin.TesterKotlinKt" />
+        <item itemvalue="Application.com.train.Tester2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +130,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658772023775</updated>
+      <workItem from="1658772025086" duration="5745000" />
+      <workItem from="1658806627551" duration="139000" />
+      <workItem from="1658806795101" duration="162000" />
+      <workItem from="1658806992512" duration="1739000" />
+      <workItem from="1658808789873" duration="956000" />
+      <workItem from="1658809772528" duration="9000" />
+      <workItem from="1658809788247" duration="1000" />
+      <workItem from="1658809815829" duration="149000" />
+      <workItem from="1658809985300" duration="30000" />
+      <workItem from="1658810029690" duration="97000" />
+      <workItem from="1658810303288" duration="765000" />
+      <workItem from="1658829286030" duration="875000" />
+      <workItem from="1659031788409" duration="7224000" />
+      <workItem from="1659749770828" duration="5947000" />
+      <workItem from="1659756361259" duration="501000" />
+      <workItem from="1659756902696" duration="3084000" />
+      <workItem from="1659783958900" duration="16000" />
+      <workItem from="1659783996531" duration="599000" />
+      <workItem from="1662198457840" duration="257000" />
+      <workItem from="1662204035921" duration="181000" />
+      <workItem from="1663231415282" duration="212000" />
+      <workItem from="1663231630524" duration="450000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
